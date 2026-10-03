@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of teddhun/hungarian-language.** Not for installation: use [Packagist](https://packagist.org/packages/teddhun/hungarian-language) or the [upstream repository](https://github.com/teddhun/hungarian-language).
 
-**0** versions archived · Latest: [`v0.1.2.2`](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.2.2) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**5** versions archived · Latest: [`v0.1.2.2`](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.2.2) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-02-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-02-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-05-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.2) |
+| `v0.1.2.1` | 2021-05-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.2.1) |
+| `v0.1.2.2` | 2021-06-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/teddhun-hungarian-language/tree/archive/v0.1.2.2) |
 
 Catalog entry: [packages/teddhun-hungarian-language.json](https://github.com/flarchive/archive-index/blob/main/packages/teddhun-hungarian-language.json)
 
